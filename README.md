@@ -18,3 +18,5 @@ Next, I had to figure out how to turn the email text into numbers that a machine
 
 This task was one of my favorite parts of the internship because it gave me real insight into how machine learning works in everyday tech — like filtering spam from your inbox. I learned how to take raw text data, clean it, convert it into a format a model can understand, and actually get useful predictions from it. It felt rewarding to apply all the small pieces I’ve been learning — like data wrangling, vectorization, and model evaluation — into one practical project. Overall, this task boosted my confidence in working with machine learning, especially for natural language tasks, and made me excited to explore more complex models in the future.
 
+#OUTPUT
+<img width="1000" height="800" alt="Image" src="https://github.com/user-attachments/assets/dbb34311-404b-49f7-b13a-aa6137477b9c" />
